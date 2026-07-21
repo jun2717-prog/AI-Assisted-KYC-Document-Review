@@ -41,7 +41,7 @@ Financial and fintech companies spend significant manual effort verifying identi
 ## Tech stack
 
 - [Streamlit](https://streamlit.io/) — UI
-- [Hugging Face Inference Providers](https://huggingface.co/docs/inference-providers/index) via `huggingface_hub` — free, open vision-language model access
+- [Hugging Face Inference Providers](https://huggingface.co/docs/inference-providers/index) via `huggingface_hub` — monthly subscription, open vision-language model access
 - [Pillow](https://python-pillow.org/) / [NumPy](https://numpy.org/) — image processing and the ELA implementation
 - [PyMuPDF](https://pymupdf.readthedocs.io/) — PDF → image conversion
 - SQLite — review history storage
