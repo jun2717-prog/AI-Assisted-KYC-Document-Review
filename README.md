@@ -56,7 +56,7 @@ export HF_TOKEN=your_huggingface_token_here
 streamlit run app.py
 ```
 
-Get a token at [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens) — a free account is enough. Make sure the token has the **"Make calls to Inference Providers"** permission enabled (off by default on fine-grained tokens).
+Get a token at [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens) — a subscription used. Make sure the token has the **"Make calls to Inference Providers"** permission enabled (off by default on fine-grained tokens).
 
 Then open the local URL Streamlit prints (usually `http://localhost:8501`).
 
