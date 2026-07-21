@@ -80,7 +80,3 @@ Everything lives in a single `app.py`, organized into clearly labeled sections:
 | Extraction + AI visual inspection | Calls the vision-language model (with provider fallback) to extract fields, locate them, and inspect for tampering |
 | Validation / guardrails | Combines all signals into a final pass/flagged/fail decision |
 | Streamlit UI | Upload → review → approve/reject, plus a history/stats dashboard |
-
-## License
-
-[MIT](LICENSE)
