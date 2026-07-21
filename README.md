@@ -4,6 +4,10 @@ A portfolio project demonstrating an AI agent pipeline for identity document rev
 
 **[Live demo on Hugging Face Spaces](https://huggingface.co/spaces/Junio7191/kyc-review-agent)**
 
+**[Download Sample ID 1](sampleID1.pdf)**
+
+**[Download Sample ID 2](sampleID.pdf)**
+
 ## Why this project
 
 Financial and fintech companies spend significant manual effort verifying identity documents (KYC). This project shows an end-to-end approach to assisting that process with AI — without removing the human from the loop, since fully-automated identity decisions carry real risk (false rejections, missed fraud, compliance exposure).
