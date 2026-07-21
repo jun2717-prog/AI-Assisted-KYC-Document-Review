@@ -83,4 +83,4 @@ Everything lives in a single `app.py`, organized into clearly labeled sections:
 
 ## License
 
-MIT — see [LICENSE](LICENSE) (add one if you don't have it yet).
+[MIT](LICENSE)
